@@ -26,7 +26,7 @@ BookTags. A custom module for the collection of tags associated with book page i
 
 ## Links
 
-[ABCBooks](http://etc.princeton.edu/abcbooks)
+[ABCBooks](https://commons.princeton.edu/abcbooks/)
 
 [Princeton University Digital Library](http://pudl.princeton.edu/)
 
